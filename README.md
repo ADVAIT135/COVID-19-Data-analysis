@@ -1,3 +1,6 @@
+# Link for viewing the notebook on nbviewer.org:-
+[COVID-19 Data Analysis](https://nbviewer.org/github/ADVAIT135/COVID-19-Data-analysis/blob/main/covid-19-data-analysis.ipynb)
+
 <h1> The Bar_chart_race for the codes in the COVID-19 Data Analysis notebook are given below :- </h1>
 <h2 align="left">1. Bar Chart Race of COVID-19 Active Cases from 2020-01-22 to 2020-07-27 :-</h2>
 <p align="center"> <img src="https://github.com/ADVAIT135/COVID-19-Data-analysis/blob/main/COVID%20active.gif" / height ="400" width = "900"> </p>
